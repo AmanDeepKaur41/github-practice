@@ -1,1 +1,4 @@
 # github-practice
+NAME : AMANDEEP KAUR 
+ROLE :LEARNER
+DATE : 7 JULY 2026
