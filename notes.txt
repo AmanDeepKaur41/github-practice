@@ -2,3 +2,5 @@ git init - to start a new git repo
 git clone - to copy a repo from github
 git add - to stage files for commit
 git push - to upload chsnges to github
+
+commit command miss
